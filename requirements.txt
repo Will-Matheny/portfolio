@@ -1,66 +1,22 @@
-backports.entry-points-selectable==1.1.1
-CacheControl==0.12.10
-cachy==0.3.0
 certifi==2021.10.8
 cffi==1.15.0
+chardet==3.0.4
 charset-normalizer==2.0.7
-cleo==0.8.1
-click @ file:///home/runner/.cache/pypoetry/artifacts/37/bb/4c/9891d9118a6a5aaa45be0a1357a7ecd642d2464d83c3cc0e8ee9b28ebf/click-8.0.4-py3-none-any.whl
-clikit==0.6.2
-crashtest==0.3.1
+click==8.0.3
+colorama==0.4.4
 cryptography==35.0.0
-debugpy==1.2.1
-distlib==0.3.3
-docopt==0.6.2
-filelock==3.3.2
-Flask @ file:///home/runner/.cache/pypoetry/artifacts/cd/4b/12/2ef50ad12f8373130d91ea66343bfa1fb25be1e5b370671bbcca3bf5a1/Flask-2.0.3-py3-none-any.whl
+Flask==2.0.2
 Flask-SQLAlchemy==2.5.1
-future==0.18.2
 greenlet==1.1.2
-html5lib==1.1
-idna==3.3
-importlib-metadata==3.10.1
-itsdangerous @ file:///home/runner/.cache/pypoetry/artifacts/6b/71/e2/3c897fada71f23343d8824283c8a5ee3f9e5cbbfe34392f364280c7d1f/itsdangerous-2.1.2-py3-none-any.whl
-jedi==0.15.2
-jeepney==0.7.1
-Jinja2 @ file:///home/runner/.cache/pypoetry/artifacts/d6/44/72/e501b54daa30d8541d7aaeae450d0409536f27605313f55d8d6c3df7c3/Jinja2-3.1.1-py3-none-any.whl
-keyring==21.8.0
-lockfile==0.12.2
-MarkupSafe @ file:///home/runner/.cache/pypoetry/artifacts/88/0a/95/ac2c115c8bb7dfdc50b353cd4080e4d749fd35e75c623094e3f6d5ef9c/MarkupSafe-2.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-msgpack==1.0.2
-numpy @ file:///home/runner/.cache/pypoetry/artifacts/0a/f1/63/4e86e206dd78b5ffa1d0b33299c8275c3e1a2411fac9d63320ce69de5f/numpy-1.22.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-packaging==20.9
-parso==0.5.2
-pastel==0.2.1
-pexpect==4.8.0
-pipreqs-amasad==0.4.10
-pkginfo==1.7.1
-platformdirs==2.4.0
-pluggy==0.13.1
-poetry==1.1.11
-poetry-core==1.0.7
-ptyprocess==0.7.0
+idna==2.6
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+peewee==3.14.8
 pycparser==2.21
-pyflakes==2.1.1
-pylev==1.4.0
-pyparsing==3.0.5
-python-jsonrpc-server==0.3.2
-python-language-server==0.31.10
-requests==2.26.0
-requests-toolbelt==0.9.1
-rope==0.18.0
-SecretStorage==3.3.1
-shellingham==1.4.0
+pyOpenSSL==21.0.0
+requests==2.18.4
 six==1.16.0
-SQLAlchemy==1.4.32
-toml==0.10.2
-tomlkit==0.7.2
-typing-extensions==3.7.4.3
-ujson==1.35
-urllib3==1.26.7
-virtualenv==20.10.0
-webencodings==0.5.1
-Werkzeug @ file:///home/runner/.cache/pypoetry/artifacts/21/92/5f/10e62ef1e84d56fd0847a6319359b2f4c7b2958815be0ed6714d47c5f5/Werkzeug-2.0.3-py3-none-any.whl
-yapf==0.31.0
-yarg==0.1.9
-zipp==3.4.1
+SQLAlchemy==1.4.26
+urllib3==1.22
+Werkzeug==2.0.2
