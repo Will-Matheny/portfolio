@@ -1,13 +1,0 @@
-SQLite format 3@  .S`
-99�D�_tableprojectprojectCREATE TABLE project (
-	"Id" INTEGER NOT NULL, 
-	"Title" VARCHAR, 
-	"Date" DATE, 
-	"Description" TEXT, 
-	"Skills" TEXT, 
-	"GitHub Repo Link" TEXT, 
-	PRIMARY KEY ("Id")
-)
-��
-L�
-��`?!�UUgPortfolio with SQLAlchemy2022-03-01For this project I had to create a web application using HTML, CSS, and Flask, a popular framework for Python web development. The web application, a portfolio, displays information about your work which is stored in a database.Python, HTML, CSS, Flask, SQLAlchemyhttps://github.com/Will-Matheny/portfolio.git�Q	K!�!1�Store Inventory with SQLAlchemy2022-03-01This project had me build a console application that loads an existing store's inventory data from a CSV file into a SQLite database. The application will allow a user to interact with the records stored in the database to view existing records, add new items, and backup/export the existing state of the database into a CSV file.Python, SQLAlchemyhttps://github.com/Will-Matheny/Store-Inventory-with-SQLAlchemy.git�])!�oPhrase Hunters2022-02-01This project had me to create a word guessing game: "Phrase Hunter." You’ll use Python and OOP (Object-Oriented Programming) approaches to select a phrase at random, hidden from the player. A player tries to guess the phrase by inputting individual characters.Pythonhttps://github.com/Will-Matheny/Phrase-Hunter.git�UC!�_Basket Ball Team Stats Tool2022-02-01This project had me to build a console-based basketball team statistics tool to help you divide up a group of players into teams. I applied my knowledge of important Python data structures like lists and dictionaries for the project.Pythonhttps://github.com/Will-Matheny/Basketball-Stats-Tool.git�Y5!�oNumber Guessing Game2022-01-01The Number Guessing Game was a fun first project to make. It uses all python, and was fairly easy to create. It works by the computer picking a random number between 1 and 10, and the user has to to try to guess the number in the least amount of tries.Pythonhttps://github.com/Will-Matheny/guessing-game.git
